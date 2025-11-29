@@ -1,6 +1,6 @@
-# Food Deserts and Health Outcomes
+# Food Desert Componnets and Health Outcomes
 
-> The purpose of this project is to understand how food deserts impact the health outcomes (obesity and diabetes) of the populations that reside in them. Broadly speaking, food deserts are areas with limited access to affordable and or nutritious food. They are often associated with a lower quality of health and life by those that reside in them. To quantify this impact requires careful analysis of food accessibility and public health data. In this project, several indicators of food deserts are used in a multiple regression model to understand their impact on diabetes and obesity. 
+> The purpose of this project is to understand how the components of a food desert impact the health outcome, obesity, of the populations that reside in them. Broadly speaking, food deserts are areas with limited access to affordable and or nutritious food. They are often associated with a lower quality of health and life by those that reside in them. To quantify this impact requires careful analysis of food accessibility and public health data. In this project, several measureme 
 
 
 ---
@@ -9,9 +9,9 @@
 
 
 
-- **Objective:** To understand how component indicators of food deserts impact health outcomes of obesity and diabetes.
+- **Objective:** To understand how component indicators of food deserts impact health outcome of obesity.
 - **Domain:** Socioeconomics and healthcare
-- **Key Techniques:** Exploratory analysis of summary statistics and graphing (heatmaps, histograms, linear regression, residual plots); forward stepwise method for linear regression optimal parameter selection; test and train data splitting.
+- **Key Techniques:** Exploratory analysis of summary statistics and graphing (heatmaps, histograms, linear regression, residual plots); forward stepwise method for linear regression optimal parameter selection; elastic net; test and train data splitting.
 
 ---
 
