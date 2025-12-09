@@ -64,14 +64,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used
-- - Python
-- - jupyter notebook
-- - pandas package
-- - numpy package
-- - seaborn package
-- - plotly package
-- - scipy.stats packages
-- - sklearn packages
-- - mlxtend package
+Tools/libraries used
+-  Python
+-  jupyter notebook
+-  pandas package
+-  numpy package
+-  seaborn package
+-  plotly package
+-  scipy.stats packages
+-  sklearn packages
+-  mlxtend package
 
