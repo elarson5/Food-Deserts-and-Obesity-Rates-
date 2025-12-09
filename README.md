@@ -22,7 +22,6 @@
 ```
 ├── data/                 # Raw and processed data
 ├── code/                 # Jupyter notebooks 
-├── reports/              # Generated reports and visualizations
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
 ```
@@ -69,11 +68,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - - Python
 - - jupyter notebook
 - - pandas package
-- - numby package
+- - numpy package
 - - seaborn package
 - - plotly package
 - - scipy.stats packages
 - - sklearn packages
 - - mlxtend package
-- Tutorials or papers referenced
-- Inspiration or collaborators
+
